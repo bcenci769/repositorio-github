@@ -1,2 +1,1 @@
-# repositorio-github
-este es el repositorio README
+estamos haciendo un repositorio 
